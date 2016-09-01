@@ -1,15 +1,15 @@
-typography_spectrum: 0.8792311907745898
-color:
-  brandStrength: 0.6179986018687487
-  lightness: 0.7136548715643585
-  saturation: 0.3437951325904578
-  rhythmicContrast: 0.559071438619867
-  brandColors:
-    - '#FFFFFF'
-    - '#FBC66A'
-    - '#342A21'
-    - '#615039'
-    - '#A09170'
 layout_spectrum: 0.5848072355147451
+typography_spectrum: 0.5129362263251096
+color:
+  brandStrength: 0.18353866040706635
+  lightness: 0.2359673751052469
+  saturation: 0.44380548503249884
+  rhythmicContrast: 0.8128167714457959
+  brandColors:
+    - '#F2ECBA'
+    - '#DB9124'
+    - '#DCBA7A'
+    - '#AB160A'
+    - '#5B3F35'
 name: Herb Science
 title: Ancient Wisdom - Modern Science
